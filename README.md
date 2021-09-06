@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning golang
 - 🌱 I’m currently learning skywalking
 - 🤔 Reject 996
 

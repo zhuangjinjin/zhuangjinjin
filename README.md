@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning golang
-- 🌱 I’m currently learning skywalking
+- 🌱 I’m currently learning golang, dubbo
 - 🤔 Reject 996
 
 <!--
